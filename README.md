@@ -25,12 +25,9 @@ Originally built to document the pathways of MIT Islamic Society/Muslim Student 
 
 ---
 
-## 📸 Suggested Images
-
-| Image | Description |
-|-------|-------------|
-| `![image](https://github.com/user-attachments/assets/84e3f528-0b3e-42b8-b27b-6f2f05295573)` |
-| `![image](https://github.com/user-attachments/assets/0615dfb7-2c50-41f7-80bc-2a7cd734da1c)` |
+## 📸 Images
+![image](https://github.com/user-attachments/assets/84e3f528-0b3e-42b8-b27b-6f2f05295573)
+![image](https://github.com/user-attachments/assets/0615dfb7-2c50-41f7-80bc-2a7cd734da1c)
 
 ---
 
