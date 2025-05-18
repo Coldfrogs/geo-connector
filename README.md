@@ -1,7 +1,7 @@
 # GeoConnector 🌍
 
 **GeoConnector** is a browser-based mapping tool that lets you visualize the geographic journeys of individuals or communities over time.  
-Originally built to document the pathways of MIT Islamic Society/Muslim Student Association members before and after their time at MIT, it can be used for:
+Originally built to document the pathways of MIT Islamic Society/Muslim Student Association members before and after their time at MIT as part of a research project with MIT's History Department, it can be used for:
 
 - Alumni networks
 - Personal travel logs
